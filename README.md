@@ -8,8 +8,9 @@ JDDC 2.1 is the first corpus with annotations for all the above tasks over the s
 
 ## Dataset Application
 
-If you are interested in our dataset, please fill out the application form ([docx](https://github.com/hrlinlp/jddc2.1/files/9817639/Application.form.of.JDDC.2.1.docx) or 
-[pdf](https://github.com/hrlinlp/jddc2.1/files/9817640/Application.form.of.JDDC.2.1.pdf)) and email lihaoran24 (AT) jd.com (Please email us with your organization's email).
+If you are interested in our dataset, please fill out the application form ([docx](https://github.com/hrlinlp/jddc2.1/files/9949156/Application.form.of.JDDC.2.1.docx) or 
+[pdf](https://github.com/hrlinlp/jddc2.1/files/9949157/Application.form.of.JDDC.2.1.pdf)) and email lihaoran24 (AT) jd.com (Please email us with your organization's email).
+
 
 ## Reference
 
